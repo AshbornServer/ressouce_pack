@@ -1,0 +1,67 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/fondateur.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/admin.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/responsable.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/helper.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/nitro.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/soul-master.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/liche.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/necromancien.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "ashborn:grade/aventurier.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": ["\uE008"]
+        }
+    ]
+}
