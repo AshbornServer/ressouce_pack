@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/leather_chestplate","layer1":"item/leather_chestplate_overlay"},"overrides":[{"predicate":{"custom_model_data":10101},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/chestplate_icon"}],"mcmodels":"6d08e4e2fad88176756b21567a10af0d"}

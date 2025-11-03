@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/iron_hoe"},"overrides":[{"predicate":{"custom_model_data":10101},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/hoe"}],"mcmodels":"6d08e4e2fad88176756b21567a10af0d"}
